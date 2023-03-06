@@ -1,3 +1,4 @@
+let count = 0;
 function startCount() {
   let count = 0;
   intervalId = setInterval(() => {
